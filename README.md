@@ -15,7 +15,6 @@
 ## Talking about my stacks:
 
 - 🛠 &nbsp; I’m currently working with JavaScript,React JS.
-- 👨🏻‍💻 &nbsp; checkout my works [Github](https://github.com/ashokpandiyana).
 - 💬 &nbsp; checkout my twitter  [here](https://twitter.com/ashoka43)! Open for discussion.
 - 📫 &nbsp; How to reach me: ashokpandiyan431998@gmail.com
 - 📝 &nbsp; Checkout my [Website](https://ashokpandiyanaprofile.web.app/).
