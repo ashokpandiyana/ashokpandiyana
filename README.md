@@ -2,10 +2,10 @@
 <h1 align="center">Ashok Pandiyan A</h1>
 
 <p align="center">
-  23 . and I have been into Software Development for 2.5 years 
+  23 & Software Developer for 2.5 years 
 </p>
 
-<!-- <p align="center">🌱 I'm Learning <strong>Vue</strong> and <strong>TypeScript</strong>.</p> -->
+<!-- <p align="center">🌱 I'm Learning <strong>GraphQL</strong> and <strong>TypeScript</strong>.</p> -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashokpandiyana" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="20" width="20" /></a>
