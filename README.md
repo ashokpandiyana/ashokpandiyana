@@ -2,10 +2,10 @@
 <h1 align="center">Ashok Pandiyan A</h1>
 
 <p align="center">
-  23 & Software Developer for 2.5 years 
+  23 & Software Developer for 2.7 years 
 </p>
 
-<!-- <p align="center">🌱 I'm Learning <strong>GraphQL</strong> and <strong>TypeScript</strong>.</p> -->
+<p align="center">🌱 I'm Learning <strong>GraphQL</strong> and <strong>TypeScript</strong>.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashokpandiyana" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="20" width="20" /></a>
@@ -15,7 +15,7 @@
 
 ## Talking about my stacks:
 
-- 🛠 &nbsp; I’m currently working with JavaScript,React JS.
+- 🛠 &nbsp; I’m currently working with JavaScript,React JS,SQL.
 - 💬 &nbsp; checkout my twitter  [here](https://twitter.com/ashoka43)! Open for discussion.
 - 📫 &nbsp; How to reach me: ashokpandiyan431998@gmail.com
 - 📝 &nbsp; Checkout my [Website](https://ashokpandiyanaprofile.web.app/).
