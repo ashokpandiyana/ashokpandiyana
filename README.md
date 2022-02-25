@@ -4,7 +4,7 @@
 <p align="center">
   23 & Software Developer for 2.7 years 
 </p>
-![image title](https://rushter.com/counter.svg)
+
 <p align="center">🌱 I'm Learning <strong>GraphQL</strong> and <strong>TypeScript</strong>.</p>
 
 <p align="center">
