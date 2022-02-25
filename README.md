@@ -4,7 +4,7 @@
 <p align="center">
   23 & Software Developer for 2.7 years 
 </p>
-
+![Visitor Count](https://profile-counter.glitch.me/ashokpandiyana/count.svg)
 <p align="center">🌱 I'm Learning <strong>GraphQL</strong> and <strong>TypeScript</strong>.</p>
 
 <p align="center">
