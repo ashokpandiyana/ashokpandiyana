@@ -5,7 +5,7 @@
   23 & Software Developer for 2.7 years 
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashokpandiyana&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
-<p align="center">🌱 I'm Learning <strong>GraphQL</strong> and <strong>TypeScript</strong>.</p>
+<!-- <p align="center">🌱 I'm Learning <strong>GraphQL</strong> and <strong>TypeScript</strong>.</p> -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashokpandiyana" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="20" width="20" /></a>
