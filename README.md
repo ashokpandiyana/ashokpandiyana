@@ -2,7 +2,7 @@
 <h1 align="center">Ashok Pandiyan A</h1>
 
 <p align="center">
-  23 & Software Developer for 2.7 years 
+  23 & Software Developer for 3.3 years 
 </p>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashokpandiyana&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p> -->
 <!-- <p align="center">🌱 I'm Learning <strong>GraphQL</strong> and <strong>TypeScript</strong>.</p> -->
